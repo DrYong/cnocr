@@ -1,5 +1,15 @@
 English [README](./README_en.md).
 
+# cnocr 使用交流QQ群
+
+欢迎扫码加入QQ交流群：
+
+
+
+![QQ群二维码](./docs/cnocr-qq.jpg)
+
+
+
 # Release Notes
 
 ### Update 2020.04.21: 发布 cnocr V1.1.0
